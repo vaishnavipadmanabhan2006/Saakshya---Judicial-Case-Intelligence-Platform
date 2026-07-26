@@ -1,0 +1,6 @@
+{
+  "name": "Saakshya - Judicial Case Intelligence Platform",
+  "description": "Grounded legal summarization and case intelligence platform for Indian courts featuring sentence-to-paragraph tracing, urgency classification, precedent citation graph, multi-lingual translations, judge-assist draft orders, and court analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
